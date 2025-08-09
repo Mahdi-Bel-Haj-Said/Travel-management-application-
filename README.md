@@ -46,12 +46,20 @@ A comprehensive web application for personalized travel planning that enables us
 
 
 ## Screenshots from the web moderating application 
+
 <img width="797" height="375" alt="image" src="https://github.com/user-attachments/assets/efe8a419-1e49-48fa-90c8-fbf80dca8227" />
+
 <img width="803" height="401" alt="image" src="https://github.com/user-attachments/assets/ec5830cb-dfaa-4692-9cc1-487358f0b999" />
+
 ## Screenshots from web the administrative application 
+
 <img width="831" height="419" alt="image" src="https://github.com/user-attachments/assets/d8d21d2d-cb6f-4ba4-b122-eae8de94a32e" />
+
 ## Screenshots from the mobile application 
+
 <img width="634" height="624" alt="image" src="https://github.com/user-attachments/assets/5028c446-ad8d-4407-8e6a-28adef130888" />
+
 <img width="321" height="662" alt="image" src="https://github.com/user-attachments/assets/c79f5274-04c8-41a6-aa6e-fabd18bb2c99" />
+
 
 
