@@ -55,7 +55,7 @@ A comprehensive web application for personalized travel planning that enables us
 
 <img width="831" height="419" alt="image" src="https://github.com/user-attachments/assets/d8d21d2d-cb6f-4ba4-b122-eae8de94a32e" />
 
-## Screenshots from the mobile application 
+## Some Screenshots from the mobile application 
 
 <img width="634" height="624" alt="image" src="https://github.com/user-attachments/assets/5028c446-ad8d-4407-8e6a-28adef130888" />
 
