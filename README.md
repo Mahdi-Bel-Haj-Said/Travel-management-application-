@@ -1,7 +1,7 @@
 # Conception And Development of a Personalized Travel Planning Application
 ## |Project completed in January 2023 at HOTIX|
 
-A comprehensive web application for personalized travel planning that enables users to create optimized itineraries based on their budget, available time, and destination preferences.
+A  mobile application for personalized travel planning that enables users to create optimized itineraries based on their budget, available time, and destination preferences.
 
 ## General Architecture 
 <img width="829" height="531" alt="image" src="https://github.com/user-attachments/assets/9fe254f9-9850-46b1-b9b9-1cafcdd604ad" />
